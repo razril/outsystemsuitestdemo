@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Selenium 4 Tests ">
+
+    <suite-files>
+        <suite-file path="e2e.xml"/>
+        <suite-file path="functional.xml"/>
+    </suite-files>
+</suite>
